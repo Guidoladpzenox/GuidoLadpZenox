@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java Freela e suporte CLT
 
 🌱 Também estou estudando JavaSript e angular
 
