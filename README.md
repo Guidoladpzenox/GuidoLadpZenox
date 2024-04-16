@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java Freela e suporte CLT
+🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Freela em Java  e suporte CLT na empresa Sankhya EIP/ERP
 
 🌱 Também estou estudando JavaSript e angular
 
